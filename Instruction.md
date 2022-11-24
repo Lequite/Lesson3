@@ -37,3 +37,7 @@
 ! [Picture] (D:\Sem1 "Picture to my poem")
 
 > Конец - только часть пути.
+
+# Second Seminar homework
+
+*its not so hard*.
