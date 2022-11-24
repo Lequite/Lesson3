@@ -37,3 +37,6 @@
 ! [Picture] (D:\Sem1 "Picture to my poem")
 
 > Конец - только часть пути.
+
+# New homework
+*First Step*
